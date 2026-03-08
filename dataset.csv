@@ -1,0 +1,11 @@
+﻿Ride_ID,Customer_ID,Pickup_Location,Drop_Location,Ride_Time,Amount
+1 | 101 | Airport | City Center | 08:30 | 450,,,,,
+2 | 102 | City Center | Airport | 10:15 | 520,,,,,
+3 | 103 | Station | Hotel | 18:00 | 300,,,,,
+4 | 104 | Mall | Airport | 12:45 | 610,,,,,
+5 | 105 | Hotel | Station | 20:10 | 280,,,,,
+6 | 106 | Airport | Mall | 09:20 | 730,,,,,
+7 | 107 | Station | City Center | 14:30 | 350,,,,,
+8 | 108 | City Center | Mall | 16:40 | 260,,,,,
+9 | 109 | Airport | Station | 07:50 | 680,,,,,
+10 | 110 | Hotel | Airport | 21:15 | 540,,,,,
