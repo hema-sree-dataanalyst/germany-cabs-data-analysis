@@ -1,0 +1,25 @@
+﻿Ride_ID,Customer_ID,Pickup_Location,Drop_Location,Ride_Time,Amount
+1,101,Airport,City Center,07:45,520
+2,102,City Center,Airport,09:10,610
+3,103,Station,Hotel,10:30,340
+4,104,Mall,Airport,11:15,720
+5,105,Hotel,Station,12:40,310
+6,106,Airport,Mall,13:05,650
+7,107,Station,City Center,14:25,420
+8,108,City Center,Mall,15:10,360
+9,109,Airport,Station,16:30,700
+10,110,Hotel,Airport,17:45,580
+11,111,Mall,City Center,18:10,450
+12,112,Station,Airport,19:20,630
+13,113,City Center,Hotel,20:15,390
+14,114,Airport,City Center,21:30,520
+15,115,Hotel,Mall,08:50,280
+16,116,Station,City Center,09:40,410
+17,117,Airport,Hotel,10:55,670
+18,118,City Center,Station,11:35,350
+19,119,Mall,Airport,12:20,740
+20,120,Hotel,City Center,13:45,330
+21,121,Airport,Mall,14:50,680
+22,122,Station,Airport,15:35,610
+23,123,City Center,Hotel,16:10,370
+24,124,Mall,Station,17:25,450
